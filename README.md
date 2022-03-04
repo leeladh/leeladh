@@ -48,7 +48,7 @@ I love the entire process of developing models. I love the challenge of finding 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working in Tweek Labs
+## 🔭 I'm currently working in Tweek Labs as a Data Analyst
 
 - Motion 3-d data analysis
 - Machine Learning
