@@ -48,17 +48,16 @@ I love the entire process of developing models. I love the challenge of finding 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working in Tweek Labs
 
+- Motion 3-d data analysis
 - Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
 
 ## 🌱 I'm currently learning
 
 - 📱 Deep Learning
 - Statistics
+- NLP
 - Computer Vision  
 
 ## 💼 Technical Skills
