@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there I'm Leeladhar Maru 👋
+### Hi World,  I'm Leeladhar Maru 👋
 
 
 <!--
@@ -48,14 +48,15 @@ I love the entire process of developing models. I love the challenge of finding 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working in Tweek Labs as a Data Analyst
+## 🔭 I'm currently working in Computer vision projects
 
-- Motion 3-d data analysis
+- Tensorflow
+- keras
+- Deep Learning
 - Machine Learning
 
 ## 🌱 I'm currently learning
 
-- 📱 Deep Learning
 - Statistics
 - NLP
 - Computer Vision  
