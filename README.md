@@ -52,14 +52,16 @@ I love the entire process of developing models. I love the challenge of finding 
 
 - Tensorflow
 - keras
-- Deep Learning
-- Machine Learning
+- pytorch
+- Using Pre-trained models
 
 ## 🌱 I'm currently learning
 
-- Statistics
-- NLP
-- Computer Vision  
+- NLP Models
+- Computer Vision Models
+- Machine Learning Models
+- Kubernetes
+- git
 
 ## 💼 Technical Skills
 
