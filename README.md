@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 I'm a Data Scientist  💻!
 </h2>
 
-I love the entire process of developing models. I love the challenge of finding caches and spending time to meet new people.
+I am a self-motivated AI enthusiast interested in understanding the mathematics behind Machine Learning, Neural Network (NN), Computer
+Vision (CV) and Natural Language Processing (NLP). I have deployed scalable solutions on edge-computing devices and High-Performance
+computing devices.
 
 ### 🤝 Connect with me:
 
@@ -61,7 +63,7 @@ I love the entire process of developing models. I love the challenge of finding 
 - Computer Vision Models
 - Machine Learning Models
 - Kubernetes
-- git
+- Git
 
 ## 💼 Technical Skills
 
